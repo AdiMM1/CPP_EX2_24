@@ -18,7 +18,7 @@ Adimillersoso@gmail.com
 **operator+=** adds to the existing function the values ​​of the new function.  
 **operator+()** plus unary- return this matrix.  
 **operator-** subtracts between 2 matrix.  
-**operator-=** adds to the existing function the values ​​of the new function.  
+**operator-=*** adds to the existing function the values ​​of the new function.  
 **operator-()** unary subtraction- returns the matrix and multiplies each element by -1.  
 **operator++** increases by 1 each element in the matrix.  
 **operator--** subtracts by 1 each element in the matrix.  
