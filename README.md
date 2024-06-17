@@ -1,4 +1,8 @@
 ## Graph
+Adi Megidi  
+Adimillersoso@gmail.com  
+314956608
+
 ### functions
 **getadjMatrix-** get the matrix. <br/>
 **loadGraph-** loads a graph represented by an adjacency matrix. <br/>
