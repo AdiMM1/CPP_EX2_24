@@ -1,6 +1,11 @@
 # CPP_EX2_24
+Adi Megidi  
+Adimillersoso@gmail.com  
+314956608
 
 ## Graph
+A Graph class represents a structure of a graph represented by an adjacency matrix.  
+In this class we will implement functions that define arithmetic operations and comparison operations between matrixs that represent graphs.
 ### functions
 **getadjMatrix-** get the matrix. <br/>
 **loadGraph-** loads a graph represented by an adjacency matrix. <br/>
